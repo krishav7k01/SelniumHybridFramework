@@ -25,7 +25,8 @@ This project is a Hybrid Test Automation Framework built using **Java**, **Selen
 ---
 
 ## 📁 Project Structure
-<img width="313" alt="Screenshot 2025-05-04 at 3 58 40 PM" src="https://github.com/user-attachments/assets/3beb5de0-436a-4b0d-9dd8-92773ee19793" />
+<img width="584" alt="Screenshot 2025-05-07 at 4 02 12 PM" src="https://github.com/user-attachments/assets/435c1e99-fa44-49bd-818a-124a40ee66be" />
+
 
 ## 🛠️ Tech Stack
 
