@@ -25,25 +25,7 @@ This project is a Hybrid Test Automation Framework built using **Java**, **Selen
 ---
 
 ## 📁 Project Structure
-
-HybridFrameworkProj/
-├── src/
-│ ├── main/java/com/hybridframework/base/ # Base classes (DriverManager, BaseTest)
-│ ├── main/java/com/hybridframework/pages/ # Page Object classes
-│ ├── main/java/com/hybridframework/utils/ # Utility classes (Excel, Faker, Screenshot, etc.)
-│ ├── main/java/com/hybridframework/listeners/ # TestNG Listeners (e.g., MyListeners)
-│ └── test/java/com/hybridframework/testcases/ # Test cases
-├── src/test/resources/ # Configs and test data
-│ ├── config.properties
-│ ├── logback.xml
-│ ├── testdata.properties
-│ ├── testdata.xlsx
-│ └── testng.xml
-├── reports/ # ExtentReports output
-├── screenshots/ # Captured screenshots on failure
-├── logs/ # Log4j logs
-├── pom.xml # Maven dependencies
-
+<img width="313" alt="Screenshot 2025-05-04 at 3 58 40 PM" src="https://github.com/user-attachments/assets/3beb5de0-436a-4b0d-9dd8-92773ee19793" />
 
 ## 🛠️ Tech Stack
 
